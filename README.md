@@ -5,4 +5,4 @@ Desc.: Based on Open AI text-davinci-003 model multilanguage chat bot. Enter you
 
 Project based on tutorial available on https://www.youtube.com/watch?v=2FeymQoKvrk&t=166s. 
 
-Demo is available on 
+Demo is available on https://aichat-app.netlify.app/
